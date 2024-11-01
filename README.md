@@ -5,5 +5,4 @@ Compared to the [ExDark](https://github.com/cs-chan/Exclusively-Dark-Image-Datas
 
 
 <img src="pictures/dataset.png" width="70%">
-<img src="pictures/instance.png" width="50%">  
-<img src="pictures/scale.png" width="30%">
+
